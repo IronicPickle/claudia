@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "Discord Bot",
+      "path": "claudia-bot"
+    },
+    {
+      "name": "Web Client",
+      "path": "claudia-client"
+    },
+    {
+      "name": "Web Server",
+      "path": "claudia-server"
+    },
+    {
+      "name": "Shared",
+      "path": "claudia-shared"
+    }
+  ]
+}
