@@ -1,0 +1,12 @@
+[submodule "claudia-bot"]
+	path = claudia-bot
+	url = git@github.com:IronicPickle/claudia-bot.git
+[submodule "claudia-shared"]
+	path = claudia-shared
+	url = git@github.com:IronicPickle/claudia-shared.git
+[submodule "claudia-server"]
+	path = claudia-server
+	url = git@github.com:IronicPickle/claudia-server.git
+[submodule "claudia-client"]
+	path = claudia-client
+	url = git@github.com:IronicPickle/claudia-client.git
